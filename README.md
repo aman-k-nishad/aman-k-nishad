@@ -34,8 +34,9 @@ I am a passionate first-year undergraduate student pursuing a Bachelor of Comput
 
 ## 💻 Technical Skills
 - **Programming Languages**: Python, Basic SQL
+- **Other**: Wireshark, Network Designs (and basic cybersecurity measures)
 - **Mathematics**: Discrete Mathematics, Basic Statistics
-- **Tools**: Visual Studio Code, Microsoft Powerpoint
+- **Tools**: Visual Studio Code, Microsoft Powerpoint, Wireshark
 
 ## 🎯 Career Interests
 - Data Science and Analytics
